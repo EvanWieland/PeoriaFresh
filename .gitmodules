@@ -1,0 +1,6 @@
+[submodule "PeoriaFreshFrontend"]
+	path = PeoriaFreshFrontend
+	url = https://github.com/EvanWieland/PeoriaFreshFrontend.git
+[submodule "PeoriaFreshBackend"]
+	path = PeoriaFreshBackend
+	url = https://github.com/EvanWieland/PeoriaFreshBackend.git
